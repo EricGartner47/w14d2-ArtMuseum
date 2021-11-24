@@ -17,6 +17,8 @@ function App() {
           <h2>Harvard Museum</h2>
           <p>Look, but Don't Touch. Please select a Gallery in the navigation bar.</p>
         </Route>
+        <Route exact path='/galleries'>
+        </Route>
         <Route>
         <h1>404 Page Not Found</h1>
         </Route>
